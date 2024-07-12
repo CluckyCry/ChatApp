@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.mainDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: st;
+    width: 100vw;
+    height: 100vh;
+}
+
+body{
+    background-image: url('../Images/seamless-pattern-with-different-social-media-icons_405287-75.jpg');
+}
